@@ -1,6 +1,0 @@
-# .ipynb_checkpoints 폴더 무시
-.ipynb_checkpoints/
-.vitual_documents/
-__pycache__/
-
-# 더 무시할 파일 추가
