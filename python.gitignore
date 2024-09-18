@@ -1,0 +1,8 @@
+# .ipynb_checkpoints 폴더 무시
+.ipynb_checkpoints/
+
+# .virtual_documents 폴더 무시
+.vitual_documents/
+
+# __pycache__ 폴더 무시
+__pycache__/
